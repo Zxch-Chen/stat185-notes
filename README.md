@@ -5,6 +5,7 @@ Typeset lecture notes for STAT 185, covering linear algebra background, PCA, the
 - **`stat185_notes.pdf`**: the compiled notes. Start here.
 - **`stat185_notes.tex`**: the LaTeX source.
 - **`figures/`**: every figure, plus the Python scripts that generate them. Each script prints the numbers quoted in the text.
+- **`transcripts/`**: automatic transcripts of eight lectures (Oct 22 to Nov 17), lightly cleaned. See its README for what was edited.
 
 ## Building
 
